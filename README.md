@@ -16,7 +16,7 @@
 - **Spring Boot:** Framework que facilita la creación de aplicaciones Java basadas en Spring.
 - **Spring Security:** Módulo de Spring utilizado para manejar la seguridad de la aplicación.
 - **JWT (JSON Web Tokens):** Utilizado para la autenticación y autorización de usuarios.
-- **PostgreSQL:** Sistema de gestión de bases de datos relacional utilizado para almacenar la información del foro.
+- **MySQL:** Sistema de gestión de bases de datos relacional utilizado para almacenar la información del foro.
 - **Flyway:** Herramienta para el versionado y migración de la base de datos.
 - **OpenAPI:** Especificación para describir y documentar la API.
 
@@ -61,8 +61,6 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo `LICENSE` en el repositorio.
 
 ---
-
-Para más información sobre el curso y los desafíos, visita [Alura Cursos](https://www.aluracursos.com/).
 
 ---
 
